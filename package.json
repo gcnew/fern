@@ -1,0 +1,18 @@
+{
+	"name": "fern",
+	"version": "0.0.1",
+	"license": "MIT",
+	"author": {
+		"name": "gcnew"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gcnew/fern.git"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"bedrock-build": "gcnew/bedrock.build"
+	},
+	"private": true
+}
